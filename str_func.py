@@ -1,6 +1,5 @@
 def capitalize():
     input()
-'''Эта функция делает все слова с заглавной буквы'''
 result = input()
 print(result.upper())
 
